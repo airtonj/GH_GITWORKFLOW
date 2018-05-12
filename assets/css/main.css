@@ -3087,8 +3087,8 @@
 			#banner input[type="reset"].special,
 			#banner input[type="button"].special,
 			#banner .button.special {
-				background: #fff;
-				color: #666 !important;
+				background: #009e89;
+				color: #fff !important;
 			}
 
 /* Main */
